@@ -26,3 +26,11 @@ Once the movies are recommended, to provide a personal touch and how the movie m
 
 ### Major Issues
 This project primarily focused on developing both mathematical and functional models of analysing a movie dataset. Hence, a major component in any project UI/UX was overlooked. The UI developed for this application is built on kivy and is standalone desktop application. Future improvements to be made include acquistion and processing of a larger dataset and developing an aesthetic User Interface. 
+
+## About The Repository
+1) Bollywood-Data-master - given data
+2) CSV Files Created - modified data 
+3) Notebooks - jupyter notebook with code to execute the above modules
+4) Scrpits - python scripts for the above modules
+5) ScritsDF - movie scripts used in emotion analyser
+6) Presentation and Video
