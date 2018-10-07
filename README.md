@@ -31,6 +31,6 @@ This project primarily focused on developing both mathematical and functional mo
 1) Bollywood-Data-master - given data
 2) CSV Files Created - modified data 
 3) Notebooks - jupyter notebook with code to execute the above modules
-4) Scrpits - python scripts for the above modules
-5) ScritsDF - movie scripts used in emotion analyser
+4) Scripts - python scripts for the above modules
+5) ScriptsDF - movie scripts used in emotion analyser
 6) Presentation and Video
