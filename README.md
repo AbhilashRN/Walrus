@@ -5,10 +5,13 @@ Walrus is Movie analysis and recommendation service that runs on IBM's Natural L
 It splits the dataset in order to run 3 primary tasks *Emotion Analyzer,Concept Analyzer,Character Similarity from Wikipedia*
 
 ## Tools and API's used
-*IBM Watson Natural Language Understanding Service - Analyze text to extract concepts, keywords, emotion using natural language understanding.
-*Google Pre-trained word2vec model – Find closeness between words to establish similarity between entities.
-*MediaWiki API – Extract contents from Wikipedia page to perform analysis
-*Kivy Cross Platform Application Development – Create desktop application.
+1.IBM Watson Natural Language Understanding Service - Analyze text to extract concepts, keywords, emotion using natural language understanding.
+
+2.Google Pre-trained word2vec model – Find closeness between words to establish similarity between entities.
+
+3.MediaWiki API – Extract contents from Wikipedia page to perform analysis.
+
+4.Kivy Cross Platform Application Development – Create desktop application.
 
 ## Functional Modules
 ### Emotion Analyzer
