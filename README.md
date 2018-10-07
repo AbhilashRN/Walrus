@@ -1,2 +1,3 @@
 # Walrus
-Not Movie Recommendation System
+Not just a Movie Recommendation System
+
